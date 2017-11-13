@@ -1,7 +1,9 @@
-package com.starcompany.ormasample;
+package com.starcompany.ormasample.presentation.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.starcompany.ormasample.R;
 
 public class MainActivity extends AppCompatActivity {
 
